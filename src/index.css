@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+ 
+}
+
+@font-face{
+   font-family: 'Poppins-SemiBold';
+   src: url(assets/font/Poppins-SemiBold.ttf) format('ttf');
+}
